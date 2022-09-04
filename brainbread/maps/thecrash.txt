@@ -1,0 +1,37 @@
+
+..........:::::::::::::::::::::::::::::::::..........
+
+Title:			The Crash
+File name:		bb_thecrash.bsp
+Author:			John "Jesus Fu" Bredl
+E-mail:			jesusfu@gmail.com
+Background:		Somehow you crashed... somewhere.  And you have somewhat of a problem.
+  Story			Zombies are everywhere, and you have to complete your objectives to
+			escape this nightmare.  Sounds a bit like every other BB map, right?
+
+
+..........:::::::::::::::::::::::::::::::::..........
+
+Information:		This is my first HL map.  Keypoints are based off of the start of
+			Resident Evil 2 but I'd like to think it has it's own personality
+			and style.
+
+Special Thanks:		-Troy "G@mb1t" Miller
+			-VERC Collective for some very useful articles.
+			-The BrainBread team and forums.
+
+
+--[[]Construction[]]--
+
+Base:			From Scratch
+Editor Used:		Hammer 3.5
+Compile Machine:	Pentium IV 3.0GHz, 1GB RAM
+Construction time:	Periodical work over 1 month.
+New textures:		Yes
+CD track:		No
+Known Errors:		Several.
+
+
+..........:::::::::::::::::::::::::::::::::..........
+
+Copyright 2005 John Bredl

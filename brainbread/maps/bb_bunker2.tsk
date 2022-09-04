@@ -1,0 +1,10 @@
+//ent name |  trigger on activate  | trigger on completion
+//----------------------------------------
+// RESERVED:
+// random
+
+mission_zc_1 mission_zc_1_spec bunker_door_2a_start
+mission_zc_2 - bunker_door_2a_power
+frags - -
+fred - fred_finished
+escape - -

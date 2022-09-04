@@ -1,0 +1,21 @@
+//ent name |  trigger on activate  | trigger on completion
+//----------------------------------------
+// RESERVED:
+// random
+// lastmission_glowies 
+// open_section3
+// open_section5
+// enter_mission4_zombies
+// mortars
+// enter_mission7_zombies
+// lastmission_door
+
+bb_reactor_mission_1 lastmission_glowies -
+bb_reactor_mission_2 reactor_crit_3_door -
+fred - open_section3
+bb_reactor_mission_4 - open_section5
+bb_reactor_mission_5 enter_mission4_zombies mortars
+bb_reactor_mission_6 - -
+bb_reactor_mission_7 - enter_mission7_zombies
+random lastmission_door -
+

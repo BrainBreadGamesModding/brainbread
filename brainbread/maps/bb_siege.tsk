@@ -1,0 +1,22 @@
+//ent name |  trigger on activate  | trigger on completion
+//----------------------------------------
+// RESERVED:
+// random
+// rescue
+// frags
+// fred
+// object
+
+it_starts game_text active_lock1
+fred entry_alarm fred_mission_end
+bb_siege_mission1 - mission1_doors
+bb_siege_mission2 - mission2_door
+bb_siege_mission3 mission3_zombies mission3_doors
+bb_siege_mission4 - radio_room
+bb_siege_mission4b - alarm_off
+bb_siege_mission5 alarm_off bb_siege_mission5_end
+bb_siege_mission5b - bb_siege_mission5b_end
+bb_siege_mission5_inter - power_room
+bb_siege_mission6 - mission_6_doors 
+random - alarm1_on
+ 

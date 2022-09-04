@@ -1,0 +1,17 @@
+//ent name |  trigger on activate  | trigger on completion
+//----------------------------------------
+// RESERVED:
+// random
+// rescue
+// frags
+// fred
+// object
+
+wharehouse leave -
+helpmarines startmap -
+object - -
+gunstore1 gunstore -
+frags - -
+keepgoing continue - 
+fred - -
+random

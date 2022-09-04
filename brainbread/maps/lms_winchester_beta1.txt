@@ -1,0 +1,11 @@
+--------------lms_winchester_beta1-------------
+
+Map by fcuk (www.n3msi.de.vu)
+Models/Textures by Doenerking  ( http://thedoenerking.myexp.de )
+Music "Don't Stop Me Now" by Queen converted by Zuwahmbi
+
+it´s a Betaversion of lms_winchester for suggestions/critic
+known bugs: 
+-when the Zombies are getting in they sometimes get cliping bugs
+-low fps (high w_poly/e_poly)
+-some inv textures

@@ -1,0 +1,24 @@
+                         ***The Winchester Pub***
+
+
+Mapname: bb_winchester.BSP
+Creator: Shuwadhi, Zuwahmbi.. whatever does it for ye. (revjoeron@operamail.com)
+Zip contents: This file (obviously)
+              bb_winchester.bsp (The mappy)
+              Winchester.wad (The mappy's textures)
+              dsmn.wav ("Don't Stop Me Now" - Queen)
+              osong.wav ("In Dreams" - Roy Orbison)
+              barney.mdl (Shaun replacement for Barney)
+              A whole lotta Love
+
+Description: This is the absolute final (for real this time) version of my map of the Winchester Pub from Shaun of the Dead. I appologize for the ludicrous size of the zip, but there was a ton of neat shit I just had to cram into this beast. You may notice, as you play, some glaring omissions, texture alignment problems, unbalanced detail (The back room, bathrooms, etc. look "rushed". They were.), and that sort of thing. This is my first map, and although it looks pretty good, it's far from perfek. I'll probably improve it sometime in the future, with more missions and such. Until then... Enjoy! 
+
+Installation: Just take the whole zip and shove it up your... I mean unzip it into your BrainBread directory, which should be: C:/Program Files/Steam/SteamApps/<yourname>/half-life/brainbread... Then just find a server running the map, or make your own.
+
+Special thanks, credits, and all that:
+
+-Rusty-, for the Shaun-Barney model (I put red on him)
+Gary (if I recall correctly) of 4thidUSA, for any and all help along the way
+Every unknown prefab creator on GameDesign.net, for the prefabs (o' course)
+The fine folks on the BB forums, for support, ideas, etc.
+The BrainBread/Public Enemy team, for making such a damn good mod

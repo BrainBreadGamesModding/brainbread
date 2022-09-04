@@ -1,0 +1,38 @@
+                --- BRAINBREAD --- UN-OFFICIAL USERMAP ---
+                         (http://www.ironoak.de/)
+                             ---THE REACTOR---
+
+IMPORTANT: This map utilizes detail textures, you must set the
+variable "r_Detailtextures" to 1 in order to see the detail 
+textures in-game.
+
+
+=== STORY ====\\
+
+You along with a handful of civilians manage to survive the journey 
+through the zombie-infested sections of the bunker by manually 
+opening the blast doors sealing you and your companions off from 
+safety, or so you thought. As soon as you managed to open up the 
+blast doors leading to the personnel section, a handful of marines 
+and a security guard rush over to fend off the persistent zombies. 
+Unfortunately, the lengthy ordeal has taken up virtually all the 
+ammunition that you were carrying as well as the ammunition 
+reserves of the others with you. With an ever growing number of zombies 
+approaching, you and those without a gun or ammunition were rushed 
+into access corridor while the marines attempted to close and 
+secure the blast doors. Just as the zombies were about to overtake 
+the marines, the doors of the access corridor slammed shut 
+separating you and those in the corridor from the marines. Unable 
+to open the access doors, you and the other surviving civilians 
+must now venture into the rest of the compound virtually unarmed. 
+Hopefully, the marines left behind some weapons and ammunition in 
+the foyer as the doors leading directly to the personnel quarters 
+won’t open either.
+
+=== Good Luck! ====//
+
+Map Created by: Shoot_me
+HOMEPAGE: http://www.aybnetwork.com/
+EDITOR USED: QuArK (Quake Army Knife)
+Map Finished on 04/19/2005
+

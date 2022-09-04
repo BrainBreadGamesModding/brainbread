@@ -1,0 +1,7 @@
+There are exactly 4 places where humans can go that player controlled zombies can't and none of them are inside of the bunker and so none of them are safe from a nuclear blast.
+
+The underground addition is unsafe. after several collapses and fatalities the maintenance tunnel was declared unsafe and improvements in computing made maintenance to the computers unnecesary. A control console is present that can, if need be, override the system. The maintenance tunnel is stable enough that propane tanks are stored there when it was learned that they were leaking. This is a liability in any potential nuclear bunker.
+=========================================
+
+Map by Bazooka Joe
+Special thanks to Dario Casali, the fine person who crafted the original crossfire and provided me with an rmf to work with. Brainbread people for making up a funny name. Thanks to Cozmicschredder and Valve for not sucking. Don't do drugs

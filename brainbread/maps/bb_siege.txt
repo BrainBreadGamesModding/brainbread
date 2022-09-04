@@ -1,0 +1,12 @@
+                --- BRAINBREAD --- UN-OFFICIAL USERMAP ---
+                         (http://www.ironoak.de/)
+                             --- SIEGE ---
+
+IMPORTANT: This map utilizes detail textures, you must set the
+variable "r_Detailtextures" to 1 in order to see the detail 
+textures in-game.
+
+
+=== STORY ====\\
+
+TBA

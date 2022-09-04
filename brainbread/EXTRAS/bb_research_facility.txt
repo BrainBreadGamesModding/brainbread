@@ -1,0 +1,20 @@
+rosend_1990 map :research_facility
+
+You are in a facility when you are been left out because of the strange
+happenings in that facility,some marines investigate that weird happening
+they hear its comming from the top floor,after a few minutes they never come back,
+then the security guards check them out if there ok,then,they never come back too
+so your mission is to check whats happening up in the top floor.you going up there empty
+handed you need to find your weapons your self.
+
+A.)press the button at the customer service then you will see a door opening
+    at the front of you then get inside it will lead you to an elevator leading you to the top floor
+     you will see a security guard telling you that you cant go there empty handed go to his locker
+      and get the weapon_sawed.
+B.)no go to the janitors closet then get down the ladder.
+
+C.)now push the button of the electonic box
+
+D.)kill the requested zombie.beware of the invisible zombies
+
+E.)last but not the least the fred

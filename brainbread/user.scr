@@ -32,7 +32,7 @@
 
 
 // Half-Life User Info Configuration Layout Script (stores last settings chosen, too)
-// File generated:  Sat Aug 28 16:38:12 AM
+// File generated:  Sat Sep 03 21:20:57 AM
 //
 //
 // Cvar	-	Setting
@@ -47,7 +47,7 @@ DESCRIPTION INFO_OPTIONS
 		{ NUMBER 0.000000 3.000000 }
 		{ "3.000000" }
 	}
-	
+
 	"cl_help"
 	{
 		"Show ingame help"
@@ -68,7 +68,7 @@ DESCRIPTION INFO_OPTIONS
 		{ BOOL }
 		{ "1" }
 	}
-	
+
 	"cl_detailsprites"
 	{
 		"Show detailed sprites"
@@ -80,42 +80,45 @@ DESCRIPTION INFO_OPTIONS
 	{
 		"Multiplayer decal limit"
 		{ NUMBER 0.000000 4096.000000 }
-		{ "400.000000" }
+		{ "300.000000" }
 	}
-	
+
 	"cl_"
 	{
 		"BEBUG options, use only if the game"
-		{ LIST " keeps crashing!" "0" }
-		{ "" }
+		{
+			LIST
+			" keeps crashing!" "0"
+		}
+		{ "0.000000" }
 	}
-	
+
 	"cl_partsys"
 	{
 		"Enable particle system"
 		{ BOOL }
 		{ "1" }
 	}
-	
-	
+
 	"cl_helpsys"
 	{
 		"Enable help system"
 		{ BOOL }
 		{ "1" }
 	}
-	
+
 	"cl_fadesys"
 	{
 		"Enable fader system"
 		{ BOOL }
 		{ "1" }
 	}
-	
+
 	"cl_fontsys"
 	{
 		"Enable font system"
 		{ BOOL }
 		{ "1" }
 	}
+
 }
