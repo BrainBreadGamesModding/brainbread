@@ -1,0 +1,14 @@
+//ent name |  trigger on activate  | trigger on completion
+//----------------------------------------
+// RESERVED:
+
+Mission_intro1 - Mission_introALARM
+Mission1a mission1a_start ZEDFORCE1
+Mission2a ZEDFORCE2 -
+Mission3a - ZEDFORCE3
+Mission4a Mission4a_start SET_CHKPT
+object - Mission5A_OPNLRLVL
+//Mission6ab MSSN6_PWRFLa Mission6A_OPNLRLVL
+Mission6ab MSSN6_PWRFLb Mission6A_OPNLRLVL
+fred - fred_mission_end
+escape - -

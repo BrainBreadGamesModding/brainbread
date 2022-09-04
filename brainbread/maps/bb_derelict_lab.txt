@@ -1,0 +1,34 @@
+                --- BRAINBREAD --- UN-OFFICIAL USERMAP ---
+                         (http://www.ironoak.ch/)
+                            --- THE LAB V1.0 ---
+
+IMPORTANT: This map utilizes detail textures, you must set the
+variable "r_Detailtextures" to 1 in order to see the detail 
+textures in-game.
+
+
+=== STORY ====\\
+
+You and a handful of other civilians have been dropped off at a
+seemingly small military base, at least above ground.  Below the
+ground is an expansive military installation where research on
+the undead had been going on.  Recently, the base had been
+compromised.  The security guards and solders are doing their best
+to fend off the zombies and evacuate anyone else still alive
+in the base, but they still need to recover the research that had
+been going on down there.  Since they are spread thin, you and a
+few others volunteered to recover the research materials.
+
+=== Good Luck! ====//
+
+Map Created by: Shoot_me
+HOMEPAGE: http://www.aybnetwork.com/
+EDITOR USED: QuArK (Quake Army Knife)
+Map Finished on 07/05/2009
+
++++++++CUSTOM TEXTURES  CREDITS:
+**|| ASYLUM WAD - By Dethtex (http://users.nac.net/schwenz/)
+**|| RELIC25 – By Kevin[Relic25] (http://www.deltatraining.com/relic25/)
+**|| sb_walls - By Shebob (www.shebob.com)
+**|| Various other textures used from the RE:CB mod and core Half-Life
+wad files (as well as any other authors or sources I’ve forgotten to mention).

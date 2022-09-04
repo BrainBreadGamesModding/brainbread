@@ -1,0 +1,81 @@
+doorchipped	detail/ShootmeV2/doorchipped_DETAIL	1.0	1.0
+LAB1_DOOR7	detail/ShootmeV2/LAB1_DOOR7_DETAIL	1.0	1.0
+R25_beam	detail/ShootmeV2/R25_beam_DETAIL	1.0	1.0
+R25_pipewall4	detail/ShootmeV2/R25_pipewall4_DETAIL	1.0	1.0
+R25_wall1	detail/ShootmeV2/R25_wall1_DETAIL	1.0	1.0
+doorscratch	detail/ShootmeV2/doorscratch_DETAIL	1.0	1.0
+R25_beam3	detail/ShootmeV2/R25_beam3_DETAIL	1.0	1.0
+R25_pipe5	detail/ShootmeV2/R25_pipe5_DETAIL	1.0	1.0
+R25_reinforced	detail/ShootmeV2/R25_reinforced_DETAIL	1.0	1.0
+tiledark	detail/ShootmeV2/tiledark_DETAIL	1.0	1.0
+CRETE3_WALL02	detail/ShootmeV2/CRETE3_WALL02_DETAIL	2.0	2.0
+po_asphaltdark	detail/ShootmeV2/po_asphaltdark_DETAIL	1.0	1.0
+po_audwarpowsd	detail/ShootmeV2/po_audwarpowsd_DETAIL	1.0	1.0
+po_concretwal3	detail/ShootmeV2/po_concretwal3_DETAIL	1.0	1.0
+po_rustmtltured	detail/ShootmeV2/po_rustmtltured_DETAIL	1.0	1.0
+R25_pipe4	detail/ShootmeV2/R25_pipe4_DETAIL	1.0	1.0
+po_brckwllbrwn	detail/ShootmeV2/po_brckwllbrwn_DETAIL	1.0	1.0
+po_asphaltstrt	detail/ShootmeV2/po_asphaltstrt_DETAIL	2.0	2.0
+Lab_wall1	detail/ShootmeV2/Lab_wall1_DETAIL	1.0	1.0
+R25_decking1	detail/ShootmeV2/R25_decking1_DETAIL	1.0	1.0
+LAB1_BLUXFLR1B	detail/Shootme/LAB1_BLUXFLR1_DETAIL	2.0	2.0
+LAB1_BLUXFLR1	detail/Shootme/LAB1_BLUXFLR1_DETAIL	2.0	2.0
+
+po_wallbeige	detail/Shootme/po_wallbeige_DETAIL	1.0	1.0
+po_wallbunred	detail/Shootme/po_wallbunker_DETAIL	1.0	1.0
+po_wallbunker	detail/Shootme/po_wallbunker_DETAIL	1.0	1.0
+po_wallbunkcl	detail/Shootme/po_wallbunkcl_DETAIL	1.0	1.0
+po_wallmarble	detail/Shootme/po_wallmarble_DETAIL	1.0	1.0
+po_wallbunkcl	detail/Shootme/po_wallbunkcl_DETAIL	1.0	1.0
+C1A0_W3	detail/Shootme/C1A0_W3_DETAIL	1.0	1.0
+
+Re_carpet6	detail/Shootme/Re_carpet6_DETAIL	2.0	2.0
+
+-0FIFTIES_C	detail/Shootme/-0FIFTIES_C_DETAIL	1.0	1.0
+-1FIFTIES_C	detail/Shootme/-0FIFTIES_C_DETAIL	1.0	1.0
+-2FIFTIES_C	detail/Shootme/-0FIFTIES_C_DETAIL	1.0	1.0
+
+SILO2_WET1	detail/Shootme/SILO2_WET1_DETAIL	2.0	2.0
+SILO2_WET4C	detail/Shootme/SILO2_WET4C_DETAIL	1.0	1.0
+
+SILO2_WALL1	detail/Shootme/-1SILO2_WALL1_DETAIL	1.0	1.0
+-0SILO2_WALL1	detail/Shootme/-1SILO2_WALL1_DETAIL	1.0	1.0
+-1SILO2_WALL1	detail/Shootme/-1SILO2_WALL1_DETAIL	1.0	1.0
+-2SILO2_WALL1	detail/Shootme/-1SILO2_WALL1_DETAIL	1.0	1.0
+-3SILO2_WALL1	detail/Shootme/-1SILO2_WALL1_DETAIL	1.0	1.0
+-4SILO2_WALL1	detail/Shootme/-1SILO2_WALL1_DETAIL	1.0	1.0
+-5SILO2_WALL1	detail/Shootme/-1SILO2_WALL1_DETAIL	1.0	1.0
+
+TNNL_W12C3	detail/ShootmeV2/TNNL_W12C3_DETAIL	1.0	1.0
+TNNL_W12C17	detail/ShootmeV2/TNNL_W12C3_DETAIL	1.0	1.0
+TNNL_W4	detail/ShootmeV2/TNNL_W4_DETAIL	1.0	1.0
+TNNL_FLR5C	detail/ShootmeV2/TNNL_FLR5C_DETAIL	1.0	1.0
+TNNL_W13	detail/ShootmeV2/TNNL_W13_DETAIL	1.0	1.0
+R25_tunnel1	detail/ShootmeV2/R25_tunnel1_DETAIL	1.0	1.0
+po_flrbunker	detail/ShootmeV2/po_flrbunker_DETAIL	1.0	1.0
+po_flrbunmtl	detail/ShootmeV2/po_flrbunmtl_DETAIL	1.0	1.0
+
+CRETE4_WALL01B	detail/ShootmeV2/CRETE4_WALL01B_DETAIL	1.0	1.0
+CRETE4_FLR01	detail/ShootmeV2/CRETE4_WALL01B_DETAIL	1.0	1.0
+-0CRETE4_WALL01	detail/ShootmeV2/CRETE4_WALL01B_DETAIL	1.0	1.0
+-1CRETE4_WALL01	detail/ShootmeV2/CRETE4_WALL01B_DETAIL	1.0	1.0
+-2CRETE4_WALL01	detail/ShootmeV2/CRETE4_WALL01B_DETAIL	1.0	1.0
+-3CRETE4_WALL01	detail/ShootmeV2/CRETE4_WALL01B_DETAIL	1.0	1.0
+
+LAB1_DR4A	detail/ShootmeV2/LAB1_DR4A_DETAIL	1.0	1.0
+packsand	detail/ShootmeV2/packsand_DETAIL	2.0	2.0
+R25_asphalt1	detail/ShootmeV2/R25_asphalt1_DETAIL	1.0	1.0
+
+door2	detail/ShootmeV2/door2_DETAIL	1.0	1.0
+R25_asphalt3	detail/ShootmeV2/R25_asphalt3_DETAIL	1.0	1.0
+TNNL_W2C	detail/ShootmeV2/TNNL_W2C_DETAIL	1.0	1.0
+po_rustmtlbltu	detail/ShootmeV2/po_rustmtlbltu_DETAIL	1.0	1.0
+LAB1_W1A	detail/ShootmeV2/LAB1_W1A_DETAIL	1.0	1.0
+
+R25_gate1	detail/ShootmeV2/R25_gate1_DETAIL	1.0	1.0
+OUT_WALL5	detail/ShootmeV2/OUT_WALL5_DETAIL	1.0	1.0
+po_mtltinwll	detail/ShootmeV2/po_mtltinwll_DETAIL	1.0	1.0
+OUT_W1A	detail/ShootmeV2/OUT_W1A_DETAIL	1.0	1.0
+OUT_W1B	detail/ShootmeV2/OUT_W1B_DETAIL	1.0	1.0
+OUT_W1C	detail/ShootmeV2/OUT_W1C_DETAIL	1.0	1.0
+OUT_W1DR1	detail/ShootmeV2/OUT_W1DR1_DETAIL	1.0	1.0
