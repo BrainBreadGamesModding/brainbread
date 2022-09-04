@@ -9,6 +9,6 @@ Custom Maps by:\
 http://www.ironoak.ch/BB/index.php?page=maps \
 https://www.moddb.com/mods/brainbread/addons
 
-Mods by:
+Mods by:\
 https://gamebanana.com/games/39 \
 https://www.moddb.com/mods/brainbread/addons
