@@ -1,9 +1,9 @@
-This is an unofficial repository for brainbread, mods, maps, and it's fixes
+This is an unofficial repository for BrainBread, mods, maps, and it's fixes
 
 Credits:\
-brainbread by Iron Oak\
-steam icon fix by Zpin\
-half-life/steam/steamcmd by Valve
+BrainBread by Iron Oak\
+Steam Icon Fix by Zpin\
+Half-Life/Steam/SteamCMD by Valve
 
 Custom Maps by:\
 http://www.ironoak.ch/BB/index.php?page=maps \
